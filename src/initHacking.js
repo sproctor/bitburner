@@ -1,4 +1,4 @@
-const baseUrl = 'https://raw.githubusercontent.com/ComictypX/bitburner/master/src/'
+const baseUrl = 'https://raw.githubusercontent.com/sproctor/bitburner/master/src/'
 const filesToDownload = [
   'common.js',
   'mainHack.js',
