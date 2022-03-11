@@ -180,7 +180,7 @@ export async function main(ns) {
     }
 
     if (!didChange) {
-      await ns.sleep(5123)
+      await ns.sleep(5)
     }
   }
 }
